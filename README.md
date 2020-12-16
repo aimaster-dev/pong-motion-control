@@ -8,5 +8,5 @@ The hand gestures controls are based on this Github repo https://github.com/uvip
 
 <p align="center">
   <img src="pong.gif" width=800><br/>
-  <i>Super Mario Bros</i>
+  <i>Demo</i>
 </p>
