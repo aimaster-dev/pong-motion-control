@@ -7,6 +7,6 @@ The pong game is based on this Computerphile series https://www.youtube.com/play
 The hand gestures controls are based on this Github repo https://github.com/uvipen/AirGesture
 
 <p align="center">
-  <img src="demo/Super_mario_bros_demo.gif" width=800><br/>
+  <img src="pong.gif" width=800><br/>
   <i>Super Mario Bros</i>
 </p>
