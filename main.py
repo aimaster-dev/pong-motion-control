@@ -27,7 +27,7 @@ screen = pygame.display.set_mode((WIDTH,HEIGHT))
 print("PRESS SPACE TO START PRESS ASCAPE TO QUIT")
 class Ball:
 	RADIUS = 20
-	VELOCITY = 25
+	VELOCITY = 20
 	def __init__(self, x,y,vx,vy):
 		self.x = x
 		self.y = y
