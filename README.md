@@ -32,8 +32,8 @@ This is an AI-powered Pong game that uses real-time hand gesture recognition to 
 
 1. Clone this repository  
 ```bash
-git clone https://github.com/yourusername/gesture-pong.git
-cd gesture-pong
+git clone https://github.com/yourusername/pong-motion-control.git
+cd pong-motion-control
 ````
 
 2. Install dependencies
