@@ -49,7 +49,7 @@ pip install pygame opencv-python tensorflow numpy
 ## ▶️ Run the Game
 
 ```bash
-python pong_game.py
+python main.py
 ```
 
 Press `SPACE` to start the game
@@ -70,7 +70,7 @@ Right hand = Player 2
 ## 📂 File Structure
 
 ```
-├── pong_game.py              # Main game file
+├── main.py              # Main game file
 ├── src/
 │   └── utils.py              # Hand detection and prediction utilities
 │   └── pretrained_model.pb   # TensorFlow frozen inference graph
